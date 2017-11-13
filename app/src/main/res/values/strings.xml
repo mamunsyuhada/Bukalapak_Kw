@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nego Cincai</string>
+    <string name="category">Laptop Gaming</string>
+    <string name="barang_review">Laptop HP 14 win 10 ori Amd A8 4gb 500gb new Murah</string>
+    <string name="value_harga">Rp.3.600.000,00</string>
+    <string name="tv_harga">Harga</string>
+    <string name="harga">Harga</string>
+    <string name="btn_order">order</string>
+    <string name="spech_barang">\nNote 4X ram 4GB internal 64GB warna black / GOLD /ROSE GOLD  GARANSI DISTRIBUTOR  FAQ   NETWORK :  Technology GSM / HSPA / LTE   BODY :  Dimensions 151 x 76 x 8.5 mm (5.94 x 2.99 x 0.33 in)  Weight 165 g (5.82 oz)  SIM Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)   DISPLAY :  Type IPS LCD capacitive touchscreen, 16M colors  Size 5.5 inches (~72.7% screen-to-body ratio)  Resolution 1080 x 1920 pixels (~401 ppi pixel density)  Multitouch Yes  - MIUI 8.0   PLATFORM :  OS Android OS, v6.0 (Marshmallow)  Cpu Mediatek Helio X20 Deca Core 2.1 Ghz at 64-Bit   MEMORY :  Card slot microSD, up to 256 GB (uses SIM 2 slot)  Internal 64 GB, 4 GB RAM   CAMERA :  Primary 13 MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash  Features 1.12 m pixel size, geo-tagging, touch focus, face detection, panorama, HDR  Video 1080p@30fps, 720p@120fps  Secondary 5 MP, f/2.0, 1080p   SOUND :  Alert types Vibration; MP3, WAV ringtones  Loudspeaker Yes  3.5mm jack Yes  - 24-bit/192kHz audio  - Active noise cancellation with dedicated mic   COMMS :  WLAN Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, hotspot  Bluetooth v4.2, A2DP, LE  GPS Yes, with A-GPS, GLONASS, BDS  Infrared port Yes  Radio FM radio  USB microUSB v2.0, USB On-The-Go   FEATURES :  Sensors Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass  Messaging SMS(threaded view), MMS, Email, Push Mail, IM  Browser HTML5  Java No  - XviD/MP4/H.265 player  - MP3/WAV/eAAC+/Flac player  - Photo/video editor  - Document viewer  BATTERY : Type Non-removable Li-Po 4100 mAh battery</string>
+</resources>
